@@ -10,6 +10,7 @@ int d=40;
       String s="sohith";
 
      int x=1111;
+     String i ="hello";
 
      int o =55;
 }
