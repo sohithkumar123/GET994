@@ -4,5 +4,6 @@ public class HelloWorld{
        System.out.println("rey sunny nuv super ra");
 int a=10;
 int b=20;
+int c=30;
 }
 }
